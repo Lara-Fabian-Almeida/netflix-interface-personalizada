@@ -1,6 +1,6 @@
 # Olá, pessoal! :blush:
 
-#### O projeto aqui apresentado foi proposto pela [Digital Innovation One](https://www.dio.me/?ref=3NO8V47B9Z), cujo objetivo é a recriação da interface da netflix.
+#### O projeto aqui apresentado foi proposto pela [Digital Innovation One](https://www.dio.me/?ref=3NO8V47B9Z), cujo objetivo é a recriação da interface da Netflix.
 
 #### Assim, foi desenvolvido o Comedyflix-BR, uma plataforma com filmes e séries do gênero comédia brasileira.
 
