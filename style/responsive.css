@@ -1,0 +1,46 @@
+@media screen and (max-width:700px) {
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao{
+        margin-top: 5px;
+        padding: 8px;
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .descricao{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:500px) {
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    header .logo{
+        font-size: 25px;
+    }
+
+    .filme-principal .descricao-filme{
+        margin-top: 10px;
+        margin-bottom: 20px;
+        font-size: 12px;
+    }
+    
+    .filme-principal .titulo-filme{
+        margin-top: 15%;
+        font-size: 30px;
+        font-family: 'Trebuchet MS', Arial, sans-serif;
+    }
+
+    .botao{
+        margin-top: 3px;
+        padding: 8px;
+        font-size: 10px;
+    }
+}
