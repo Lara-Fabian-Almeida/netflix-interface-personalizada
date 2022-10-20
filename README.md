@@ -4,6 +4,9 @@
 
 #### Assim, foi desenvolvido o Comedyflix-BR, uma plataforma com filmes e séries do gênero comédia brasileira.
 
+![Tela do Comedflix-BR](https://ibb.co/vcMNRmg)
+![Tela do Comedflix-BR](https://ibb.co/Hg4vQP4)
+
 #### Além disso, as cores da interface criada diferiram da original da Netflix, englobando tons de rosa e roxo, disponíveis na [tabela de cores HTML](https://celke.com.br/artigo/tabela-de-cores-html-nome-hexadecimal-rgb).
 
 
